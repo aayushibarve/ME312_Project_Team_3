@@ -1,0 +1,11 @@
+Assignment of Ambulance Stations to Hospitals:
+H200 assigned to A214, Travel Time: 45.86, path: ['H200', 'E21', 'E82', 'E79', 'E117', 'A214']
+H201 assigned to A213, Travel Time: 37.22, path: ['H201', 'E175', 'H209', 'A213']
+H202 assigned to A211, Travel Time: 49.0, path: ['H202', 'E165', 'E12', 'E105', 'A211']
+H203 assigned to A215, Travel Time: 30.669999999999998, path: ['H203', 'E41', 'E72', 'A215']
+H204 assigned to A212, Travel Time: 32.57, path: ['H204', 'E70', 'A212']
+H205 assigned to A211, Travel Time: 56.49, path: ['H205', 'E197', 'E0', 'E53', 'E12', 'E105', 'A211']
+H206 assigned to A213, Travel Time: 52.67999999999999, path: ['H206', 'E96', 'E43', 'E78', 'A213']
+H207 assigned to A211, Travel Time: 97.59, path: ['H207', 'E181', 'E23', 'E127', 'E8', 'E92', 'A211']
+H208 assigned to A210, Travel Time: 56.7, path: ['H208', 'E159', 'E74', 'E49', 'A210']
+H209 assigned to A213, Travel Time: 14.33, path: ['H209', 'A213']
